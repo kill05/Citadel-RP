@@ -1,0 +1,67 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/ui/playermenu/coalition/buttons/aurumselected",
+		"particle": "custom/ui/playermenu/coalition/buttons/aurumselected"
+	},
+	"elements": [
+		{
+			"name": "aurumselected_0",
+			"from": [-7.53623, 8.69565, -8],
+			"to": [23.53623, 24, -7.53623],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, -8, -8]},
+			"faces": {
+				"north": {"uv": [15.76812, 0, 0.23188, 16], "texture": "#0"},
+				"east": {"uv": [15.53623, 0, 15.76812, 16], "texture": "#0"},
+				"south": {"uv": [0.23188, 0, 15.76812, 16], "texture": "#0"},
+				"west": {"uv": [0.23188, 0, 0.46377, 16], "texture": "#0"},
+				"up": {"uv": [0.23188, 0, 15.76812, 0.48485], "texture": "#0"},
+				"down": {"uv": [0.23188, 15.51515, 15.76812, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "aurumselected_1",
+			"from": [-8, 8.69565, -8],
+			"to": [-7.53623, 23.53623, -7.53623],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, -8, -8]},
+			"faces": {
+				"north": {"uv": [0.23188, 0.48485, 0, 16], "texture": "#0"},
+				"east": {"uv": [0, 0.48485, 0.23188, 16], "texture": "#0"},
+				"south": {"uv": [0, 0.48485, 0.23188, 16], "texture": "#0"},
+				"west": {"uv": [0, 0.48485, 0.23188, 16], "texture": "#0"},
+				"up": {"uv": [0, 0.48485, 0.23188, 0.9697], "texture": "#0"},
+				"down": {"uv": [0, 15.51515, 0.23188, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "aurumselected_2",
+			"from": [23.53623, 8.69565, -8],
+			"to": [24, 23.53623, -7.53623],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, -8, -8]},
+			"faces": {
+				"north": {"uv": [16, 0.48485, 15.76812, 16], "texture": "#0"},
+				"east": {"uv": [15.76812, 0.48485, 16, 16], "texture": "#0"},
+				"south": {"uv": [15.76812, 0.48485, 16, 16], "texture": "#0"},
+				"west": {"uv": [15.76812, 0.48485, 16, 16], "texture": "#0"},
+				"up": {"uv": [15.76812, 0.48485, 16, 0.9697], "texture": "#0"},
+				"down": {"uv": [15.76812, 15.51515, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [27.5, -26.5, 0],
+			"scale": [2.15626, 2.15626, 2.15626]
+		}
+	},
+	"groups": [
+		{
+			"name": "aurumselected",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2]
+		}
+	]
+}

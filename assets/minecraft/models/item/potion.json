@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+	},
+
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/misc/potion/potion1"},
+    { "predicate": {"custom_model_data":2}, "model": "item/misc/potion/potion2"},
+    { "predicate": {"custom_model_data":3}, "model": "item/misc/potion/potion"},
+    { "predicate": {"custom_model_data":4}, "model": "item/ui/itemdropvfx/lootbeam"}
+
+
+]
+}

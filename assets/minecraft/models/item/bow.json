@@ -1,0 +1,15 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/bow"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "item/weapons/bow/woodenbow"},
+  { "predicate": {"custom_model_data": 2}, "model": "item/weapons/bow/stonebow"},
+  { "predicate": {"custom_model_data": 3}, "model": "item/weapons/bow/ironbow"},
+  { "predicate": {"custom_model_data": 4}, "model": "item/weapons/bow/silverbow"}
+ ]
+
+
+}

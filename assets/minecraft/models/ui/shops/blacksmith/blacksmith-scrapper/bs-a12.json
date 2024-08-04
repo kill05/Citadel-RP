@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "ui/parents/blacksmith-a",
+	"textures": {
+		"0": "custom/ui/shops/blacksmith/bs-12"
+	},
+	"display": {}
+}

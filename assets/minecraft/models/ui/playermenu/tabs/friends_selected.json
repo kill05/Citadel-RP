@@ -1,0 +1,168 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/ui/playermenu/tabs/friends_selected",
+		"particle": "custom/ui/playermenu/tabs/friends_selected"
+	},
+	"elements": [
+		{
+			"name": "bestiary_selected_0",
+			"from": [0, 15.5, 0],
+			"to": [11.5, 16, 0.5],
+			"faces": {
+				"north": {"uv": [11.5, 0, 0, 0.5], "texture": "#0"},
+				"east": {"uv": [11, 0, 11.5, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 11.5, 0.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"},
+				"up": {"uv": [0, 0, 11.5, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 0, 11.5, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bestiary_selected_1",
+			"from": [0.5, 14.5, 0],
+			"to": [12, 15.5, 0.5],
+			"faces": {
+				"north": {"uv": [12, 0.5, 0.5, 1.5], "texture": "#0"},
+				"east": {"uv": [11.5, 0.5, 12, 1.5], "texture": "#0"},
+				"south": {"uv": [0.5, 0.5, 12, 1.5], "texture": "#0"},
+				"west": {"uv": [0.5, 0.5, 1, 1.5], "texture": "#0"},
+				"up": {"uv": [0.5, 0.5, 12, 1], "texture": "#0"},
+				"down": {"uv": [0.5, 1, 12, 1.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bestiary_selected_2",
+			"from": [12, 9, 0],
+			"to": [12.5, 15, 0.5],
+			"faces": {
+				"north": {"uv": [12.5, 1, 12, 7], "texture": "#0"},
+				"east": {"uv": [12, 1, 12.5, 7], "texture": "#0"},
+				"south": {"uv": [12, 1, 12.5, 7], "texture": "#0"},
+				"west": {"uv": [12, 1, 12.5, 7], "texture": "#0"},
+				"up": {"uv": [12, 1, 12.5, 1.5], "texture": "#0"},
+				"down": {"uv": [12, 6.5, 12.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bestiary_selected_3",
+			"from": [1, 13.5, 0],
+			"to": [12, 14.5, 0.5],
+			"faces": {
+				"north": {"uv": [12, 1.5, 1, 2.5], "texture": "#0"},
+				"east": {"uv": [11.5, 1.5, 12, 2.5], "texture": "#0"},
+				"south": {"uv": [1, 1.5, 12, 2.5], "texture": "#0"},
+				"west": {"uv": [1, 1.5, 1.5, 2.5], "texture": "#0"},
+				"up": {"uv": [1, 1.5, 12, 2], "texture": "#0"},
+				"down": {"uv": [1, 2, 12, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bestiary_selected_4",
+			"from": [1.5, 12.5, 0],
+			"to": [12, 13.5, 0.5],
+			"faces": {
+				"north": {"uv": [12, 2.5, 1.5, 3.5], "texture": "#0"},
+				"east": {"uv": [11.5, 2.5, 12, 3.5], "texture": "#0"},
+				"south": {"uv": [1.5, 2.5, 12, 3.5], "texture": "#0"},
+				"west": {"uv": [1.5, 2.5, 2, 3.5], "texture": "#0"},
+				"up": {"uv": [1.5, 2.5, 12, 3], "texture": "#0"},
+				"down": {"uv": [1.5, 3, 12, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bestiary_selected_5",
+			"from": [2, 8, 0],
+			"to": [11.5, 12.5, 0.5],
+			"faces": {
+				"north": {"uv": [11.5, 3.5, 2, 8], "texture": "#0"},
+				"east": {"uv": [11, 3.5, 11.5, 8], "texture": "#0"},
+				"south": {"uv": [2, 3.5, 11.5, 8], "texture": "#0"},
+				"west": {"uv": [2, 3.5, 2.5, 8], "texture": "#0"},
+				"up": {"uv": [2, 3.5, 11.5, 4], "texture": "#0"},
+				"down": {"uv": [2, 7.5, 11.5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bestiary_selected_6",
+			"from": [11.5, 8.5, 0],
+			"to": [12, 12.5, 0.5],
+			"faces": {
+				"north": {"uv": [12, 3.5, 11.5, 7.5], "texture": "#0"},
+				"east": {"uv": [11.5, 3.5, 12, 7.5], "texture": "#0"},
+				"south": {"uv": [11.5, 3.5, 12, 7.5], "texture": "#0"},
+				"west": {"uv": [11.5, 3.5, 12, 7.5], "texture": "#0"},
+				"up": {"uv": [11.5, 3.5, 12, 4], "texture": "#0"},
+				"down": {"uv": [11.5, 7, 12, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bestiary_selected_7",
+			"from": [1.5, 8, 0],
+			"to": [2, 11.5, 0.5],
+			"faces": {
+				"north": {"uv": [2, 4.5, 1.5, 8], "texture": "#0"},
+				"east": {"uv": [1.5, 4.5, 2, 8], "texture": "#0"},
+				"south": {"uv": [1.5, 4.5, 2, 8], "texture": "#0"},
+				"west": {"uv": [1.5, 4.5, 2, 8], "texture": "#0"},
+				"up": {"uv": [1.5, 4.5, 2, 5], "texture": "#0"},
+				"down": {"uv": [1.5, 7.5, 2, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bestiary_selected_8",
+			"from": [1, 8, 0],
+			"to": [1.5, 10.5, 0.5],
+			"faces": {
+				"north": {"uv": [1.5, 5.5, 1, 8], "texture": "#0"},
+				"east": {"uv": [1, 5.5, 1.5, 8], "texture": "#0"},
+				"south": {"uv": [1, 5.5, 1.5, 8], "texture": "#0"},
+				"west": {"uv": [1, 5.5, 1.5, 8], "texture": "#0"},
+				"up": {"uv": [1, 5.5, 1.5, 6], "texture": "#0"},
+				"down": {"uv": [1, 7.5, 1.5, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bestiary_selected_9",
+			"from": [0.5, 8, 0],
+			"to": [1, 9.5, 0.5],
+			"faces": {
+				"north": {"uv": [1, 6.5, 0.5, 8], "texture": "#0"},
+				"east": {"uv": [0.5, 6.5, 1, 8], "texture": "#0"},
+				"south": {"uv": [0.5, 6.5, 1, 8], "texture": "#0"},
+				"west": {"uv": [0.5, 6.5, 1, 8], "texture": "#0"},
+				"up": {"uv": [0.5, 6.5, 1, 7], "texture": "#0"},
+				"down": {"uv": [0.5, 7.5, 1, 8], "texture": "#0"}
+			}
+		},
+		{
+			"name": "bestiary_selected_10",
+			"from": [0, 8, 0],
+			"to": [0.5, 8.5, 0.5],
+			"faces": {
+				"north": {"uv": [0.5, 7.5, 0, 8], "texture": "#0"},
+				"east": {"uv": [0, 7.5, 0.5, 8], "texture": "#0"},
+				"south": {"uv": [0, 7.5, 0.5, 8], "texture": "#0"},
+				"west": {"uv": [0, 7.5, 0.5, 8], "texture": "#0"},
+				"up": {"uv": [0, 7.5, 0.5, 8], "texture": "#0"},
+				"down": {"uv": [0, 7.5, 0.5, 8], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-2, -8, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "bestiary_selected",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+		}
+	]
+}

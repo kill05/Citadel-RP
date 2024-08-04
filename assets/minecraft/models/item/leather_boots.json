@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_boots"
+	},
+
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/armor/leather/leather_boots"},
+		{ "predicate": {"custom_model_data":2}, "model": "item/armor/chain/chain_boots"},
+		{ "predicate": {"custom_model_data":3}, "model": "item/armor/iron/iron_boots"},
+		{ "predicate": {"custom_model_data":4}, "model": "item/armor/silver/silver_boots"},
+		{ "predicate": {"custom_model_data":5}, "model": "item/armor/gilded/gilded_boots"}
+
+]
+}

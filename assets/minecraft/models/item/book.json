@@ -1,0 +1,16 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/book"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "item/weapons/tome/woodtome"},
+  { "predicate": {"custom_model_data": 2}, "model": "item/weapons/tome/stonetome"},
+  { "predicate": {"custom_model_data": 3}, "model": "item/weapons/tome/irontome"},
+  { "predicate": {"custom_model_data": 4}, "model": "item/weapons/tome/silvertome"},
+  { "predicate": {"custom_model_data": 5}, "model": "item/weapons/tome/goldtome"}
+ ]
+
+
+}

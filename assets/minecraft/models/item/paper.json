@@ -1,0 +1,14 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/paper"
+	},
+
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/armor/leather/leather_helmet"},
+		{ "predicate": {"custom_model_data":2}, "model": "item/armor/chain/chain_helmet"},
+		{ "predicate": {"custom_model_data":3}, "model": "item/armor/iron/iron_helmet"},
+		{ "predicate": {"custom_model_data":4}, "model": "item/armor/silver/silver_helmet"}
+
+]
+}

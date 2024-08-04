@@ -1,0 +1,14 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/weapons/bow/ironcrossbow"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 0}, "model": "item/weapons/bow/ironcrossbow"},
+  { "predicate": {"custom_model_data": 1}, "model": "item/weapons/bow/silvercrossbow"},
+  { "predicate": {"custom_model_data": 99}, "model": "ui/empty"}
+ ]
+
+
+}

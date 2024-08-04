@@ -1,0 +1,20 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/iron_sword"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "item/weapons/knife/irondagger"},
+  { "predicate": {"custom_model_data": 2}, "model": "item/weapons/sword/ironsword"},
+  { "predicate": {"custom_model_data": 3}, "model": "item/weapons/sword/ironclaymore"},
+  { "predicate": {"custom_model_data": 4}, "model": "item/weapons/sword/ironkatana"},
+  { "predicate": {"custom_model_data": 5}, "model": "item/weapons/knife/silverdagger"},
+  { "predicate": {"custom_model_data": 6}, "model": "item/weapons/sword/silversword"},
+  { "predicate": {"custom_model_data": 7}, "model": "item/weapons/sword/silverclaymore"},
+  { "predicate": {"custom_model_data": 8}, "model": "item/weapons/sword/silverkatana"}
+
+ ]
+
+
+}

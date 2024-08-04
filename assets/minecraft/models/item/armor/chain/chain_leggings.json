@@ -1,0 +1,7 @@
+{
+   "parent": "item/armor/leggings",
+    "textures": {
+			"1": "custom/armor/chain/chain_leggings",
+			"particle": "custom/armor/chain/chain_leggings"
+     }
+}

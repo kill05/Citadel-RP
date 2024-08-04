@@ -1,0 +1,13 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/wooden_sword"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "item/weapons/knife/wooddagger"},
+  { "predicate": {"custom_model_data": 2}, "model": "item/weapons/sword/woodsword"}
+ ]
+
+
+}

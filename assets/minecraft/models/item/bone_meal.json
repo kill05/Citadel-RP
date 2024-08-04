@@ -1,0 +1,18 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/bone_meal"
+	},
+
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/misc/scrap/wood_scrap"},
+		{ "predicate": {"custom_model_data":2}, "model": "item/misc/scrap/stone_scrap"},
+		{ "predicate": {"custom_model_data":3}, "model": "item/misc/scrap/iron_scrap"},
+		{ "predicate": {"custom_model_data":4}, "model": "item/misc/scrap/silver_scrap"},
+		{ "predicate": {"custom_model_data":5}, "model": "item/misc/scrap/gilded_scrap"}
+
+
+
+
+]
+}

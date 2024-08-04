@@ -1,0 +1,22 @@
+{
+ "parent": "item/generated",
+ "textures": {
+  "layer0": "item/nether_wart"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "item/misc/ingredients/firelily"},
+  { "predicate": {"custom_model_data": 2}, "model": "item/misc/ingredients/corpsenettle"},
+  { "predicate": {"custom_model_data": 3}, "model": "item/misc/ingredients/brown-mushroom"},
+  { "predicate": {"custom_model_data": 4}, "model": "item/misc/ingredients/observant-eyeball"},
+  { "predicate": {"custom_model_data": 5}, "model": "item/misc/ingredients/dried-blood"},
+  { "predicate": {"custom_model_data": 6}, "model": "item/misc/ingredients/mercury-vial"},
+  { "predicate": {"custom_model_data": 7}, "model": "item/misc/ingredients/hot-pepper"},
+  { "predicate": {"custom_model_data": 8}, "model": "item/misc/ingredients/ivory-pearl"},
+  { "predicate": {"custom_model_data": 9}, "model": "item/misc/ingredients/phantom-bone"},
+  { "predicate": {"custom_model_data": 10}, "model": "item/misc/ingredients/stone-crux"},
+  { "predicate": {"custom_model_data": 11}, "model": "item/misc/ingredients/ectoplasm"}
+
+ ]
+
+}

@@ -1,0 +1,151 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/ui/playermenu/coalition/reputation1",
+		"particle": "custom/ui/playermenu/coalition/reputation1"
+	},
+	"elements": [
+		{
+			"name": "reputation1_0",
+			"from": [8.5, 10, 4],
+			"to": [11, 11.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 5.33333], "texture": "#0"},
+				"down": {"uv": [0, 10.66667, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "reputation1_1",
+			"from": [11, 10, 4],
+			"to": [13.5, 11.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 5.33333], "texture": "#0"},
+				"down": {"uv": [0, 10.66667, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "reputation2_2",
+			"from": [13.5, 10, 4],
+			"to": [16, 11.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 5.33333], "texture": "#0"},
+				"down": {"uv": [0, 10.66667, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "reputation3_3",
+			"from": [16, 10, 4],
+			"to": [18.5, 11.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 5.33333], "texture": "#0"},
+				"down": {"uv": [0, 10.66667, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "reputation4_4",
+			"from": [18.5, 10, 4],
+			"to": [21, 11.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 5.33333], "texture": "#0"},
+				"down": {"uv": [0, 10.66667, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "reputation5_5",
+			"from": [21, 10, 4],
+			"to": [23.5, 11.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 5.33333], "texture": "#0"},
+				"down": {"uv": [0, 10.66667, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "reputation6_6",
+			"from": [23.5, 10, 4],
+			"to": [26, 11.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 5.33333], "texture": "#0"},
+				"down": {"uv": [0, 10.66667, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "reputation7_7",
+			"from": [26, 10, 4],
+			"to": [28.5, 11.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 5.33333], "texture": "#0"},
+				"down": {"uv": [0, 10.66667, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"name": "reputation8_8",
+			"from": [28.5, 10, 4],
+			"to": [31, 11.5, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 4, 4]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0"},
+				"east": {"uv": [12.8, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 3.2, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 5.33333], "texture": "#0"},
+				"down": {"uv": [0, 10.66667, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-8, 0, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "reputation1",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/leather_leggings"
+	},
+
+	"overrides": [
+		{ "predicate": {"custom_model_data":1}, "model": "item/armor/leather/leather_leggings"},
+		{ "predicate": {"custom_model_data":2}, "model": "item/armor/chain/chain_leggings"},
+		{ "predicate": {"custom_model_data":3}, "model": "item/armor/iron/iron_leggings"},
+		{ "predicate": {"custom_model_data":4}, "model": "item/armor/silver/silver_leggings"},
+		{ "predicate": {"custom_model_data":5}, "model": "item/armor/gilded/gilded_leggings"}
+
+]
+}

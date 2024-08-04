@@ -1,0 +1,14 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/golden_shovel"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "item/weapons/spear/goldspear"},
+  { "predicate": {"custom_model_data": 2}, "model": "item/weapons/gauntlet/goldgauntlet"},
+  { "predicate": {"custom_model_data": 3}, "model": "item/weapons/staff/goldstaff"}
+ ]
+
+
+}

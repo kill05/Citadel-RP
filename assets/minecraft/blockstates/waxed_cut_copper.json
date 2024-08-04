@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/dark_stone_bricks", "weight": 30 }
+        ]
+    }
+}

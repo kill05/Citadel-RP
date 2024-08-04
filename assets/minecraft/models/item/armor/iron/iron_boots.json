@@ -1,0 +1,7 @@
+{
+   "parent": "item/armor/boots",
+    "textures": {
+			"1": "custom/armor/iron/iron",
+			"particle": "custom/armor/iron/iron"
+     }
+}
