@@ -1,8 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "ui/parents/item16x16",
-	"textures": {
-		"0": "custom/ui/shops/blacksmith/confirm_button"
-	},
-	"display": {}
-}
