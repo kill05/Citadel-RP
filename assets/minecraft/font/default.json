@@ -45,21 +45,21 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/itemlore/lorebuilder/bottom_l.png",
-			"ascent": 16,
+			"ascent": 15,
 			"height": 27,
 			"chars": ["꒖"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/itemlore/lorebuilder/bottom_m.png",
-			"ascent": 16,
+			"ascent": 15,
 			"height": 27,
 			"chars": ["꒗"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/itemlore/lorebuilder/bottom_r.png",
-			"ascent": 16,
+			"ascent": 15,
 			"height": 27,
 			"chars": ["꒘"]
 		},
