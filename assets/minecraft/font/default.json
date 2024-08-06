@@ -86,56 +86,6 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/examplelore-a.png",
-			"ascent": 32,
-			"height": 180,
-			"chars": ["꒜"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/examplelore-b.png",
-			"ascent": 32,
-			"height": 180,
-			"chars": ["꒝"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/examplelore-c.png",
-			"ascent": 32,
-			"height": 180,
-			"chars": ["꒞"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/examplelore-d.png",
-			"ascent": 32,
-			"height": 180,
-			"chars": ["꒠"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/examplelore-e.png",
-			"ascent": 32,
-			"height": 180,
-			"chars": ["꒡"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/examplelore-f.png",
-			"ascent": 32,
-			"height": 180,
-			"chars": ["꒢"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/examplelore-g.png",
-			"ascent": 32,
-			"height": 180,
-			"chars": ["꒣"]
-		},
-
-		{
-			"type": "bitmap",
 			"file": "minecraft:font/citadelfont/a.png",
 			"ascent": 29,
 			"height": 32,
