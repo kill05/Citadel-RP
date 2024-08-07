@@ -2,88 +2,70 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/top_l.png",
+			"file": "minecraft:font/item_lore/outer_border/top_left.png",
 			"ascent": 32,
 			"height": 48,
 			"chars": ["꒐"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/top_m.png",
+			"file": "minecraft:font/item_lore/outer_border/top_segment.png",
 			"ascent": 32,
 			"height": 48,
 			"chars": ["꒑"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/top_centre.png",
+			"file": "minecraft:font/item_lore/outer_border/top_center.png",
 			"ascent": 32,
 			"height": 48,
 			"chars": ["꒒"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/top_r.png",
+			"file": "minecraft:font/item_lore/outer_border/top_right.png",
 			"ascent": 32,
 			"height": 48,
 			"chars": ["꒓"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/mid_l.png",
+			"file": "minecraft:font/item_lore/outer_border/middle_left.png",
 			"ascent": 14,
 			"height": 14,
 			"chars": ["꒔"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/mid_r.png",
+			"file": "minecraft:font/item_lore/outer_border/middle_right.png",
 			"ascent": 14,
 			"height": 14,
 			"chars": ["꒕"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/bottom_l.png",
+			"file": "minecraft:font/item_lore/outer_border/bottom_left.png",
 			"ascent": 15,
 			"height": 27,
 			"chars": ["꒖"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/bottom_m.png",
+			"file": "minecraft:font/item_lore/outer_border/bottom_segment.png",
 			"ascent": 15,
 			"height": 27,
 			"chars": ["꒗"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/bottom_r.png",
+			"file": "minecraft:font/item_lore/outer_border/bottom_right.png",
 			"ascent": 15,
 			"height": 27,
 			"chars": ["꒘"]
 		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/level_frame.png",
-			"ascent": 17,
-			"height": 32,
-			"chars": ["꒙"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/level_bar_empty.png",
-			"ascent": 14,
-			"height": 32,
-			"chars": ["꒚"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/itemlore/lorebuilder/level_bar_segment.png",
-			"ascent": 13,
-			"height": 32,
-			"chars": ["꒛"]
-		},
+
+
+
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/citadelfont/a.png",
@@ -268,6 +250,16 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/citadelfont/space.png",
+			"ascent": 29,
+			"height": 32,
+			"chars": ["\uEA1A"]
+		},
+
+
+
+		{
+			"type": "bitmap",
 			"file": "minecraft:font/citadelsmallfont/a.png",
 			"ascent": 22,
 			"height": 32,
@@ -450,172 +442,80 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/itemlore/commonlabel/commonlabel_l.png",
-			"ascent": 26,
-			"height": 38,
-			"chars": ["\uEB00"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/itemlore/commonlabel/commonlabel_m.png",
-			"ascent": 36,
-			"height": 38,
-			"chars": ["\uEB01"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/itemlore/commonlabel/commonlabel_r.png",
-			"ascent": 26,
-			"height": 38,
-			"chars": ["\uEB02"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/itemlore/commonlabel/commonlabel_m.png",
-			"ascent": 26,
-			"height": 38,
-			"chars": ["\uEB03"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/citadelfont/space.png",
-			"ascent": 29,
-			"height": 32,
-			"chars": ["\uEA1A"]
-		},
-		{
-			"type": "bitmap",
 			"file": "minecraft:font/citadelsmallfont/space.png",
 			"ascent": 22,
 			"height": 32,
 			"chars": ["\uEA35"]
 		},
+	
+
+
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/tooltip_top-mythic.png",
-			"ascent": 19,
-			"height": 23,
-			"chars": ["ꀄ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/tooltip_middle.png",
-			"ascent": 8,
-			"height": 10,
-			"chars": ["ꀅ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/tooltip_bottom-normal.png",
-			"ascent": 8,
-			"height": 15,
-			"chars": ["ꀆ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/tooltip_bottom-uncommon.png",
-			"ascent": 8,
-			"height": 15,
-			"chars": ["ꀈ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/tooltip_bottom-rare.png",
-			"ascent": 8,
-			"height": 15,
-			"chars": ["ꀇ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/tooltip_bottom-epic.png",
-			"ascent": 8,
-			"height": 15,
-			"chars": ["ꀌ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/tooltip_bottom-legendary.png",
-			"ascent": 8,
-			"height": 15,
-			"chars": ["ꀉ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/tooltip_bottom-mythic.png",
-			"ascent": 8,
-			"height": 15,
-			"chars": ["ꀊ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/tooltip_top-normal-alt.png",
-			"ascent": 19,
-			"height": 23,
-			"chars": ["ꀍ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/boontooltip-ancient-top.png",
+			"file": "minecraft:font/boons/ancient-top.png",
 			"ascent": 19,
 			"height": 23,
 			"chars": ["ꀑ"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/boontooltip-ancient-middle.png",
+			"file": "minecraft:font/boons/ancient-middle.png",
 			"ascent": 8,
 			"height": 10,
 			"chars": ["ꀒ"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/boontooltip-ancient-bottom.png",
+			"file": "minecraft:font/boons/ancient-bottom.png",
 			"ascent": 8,
 			"height": 15,
 			"chars": ["ꀓ"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/boontooltip-gilded-top.png",
+			"file": "minecraft:font/boons/gilded-top.png",
 			"ascent": 19,
 			"height": 23,
 			"chars": ["ꀔ"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/boontooltip-gilded-middle.png",
+			"file": "minecraft:font/boons/gilded-middle.png",
 			"ascent": 8,
 			"height": 10,
 			"chars": ["ꀕ"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/boontooltip-gilded-bottom.png",
+			"file": "minecraft:font/boons/gilded-bottom.png",
 			"ascent": 8,
 			"height": 15,
 			"chars": ["ꀖ"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/boontooltip-cursed-top.png",
+			"file": "minecraft:font/boons/cursed-top.png",
 			"ascent": 19,
 			"height": 23,
 			"chars": ["ꀗ"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/boontooltip-cursed-middle.png",
+			"file": "minecraft:font/boons/cursed-middle.png",
 			"ascent": 8,
 			"height": 10,
 			"chars": ["ꀘ"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/boontooltip-cursed-bottom.png",
+			"file": "minecraft:font/boons/cursed-bottom.png",
 			"ascent": 8,
 			"height": 18,
 			"chars": ["ꀙ"]
 		},
+
+
+
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/diamond-icon.png",
@@ -630,6 +530,9 @@
 			"height": 8,
 			"chars": ["ꀏ"]
 		},
+
+
+
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/arrow-icon.png",
@@ -637,6 +540,9 @@
 			"height": 8,
 			"chars": ["ꀐ"]
 		},
+
+
+
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/smalldigit/0.png",
@@ -707,6 +613,9 @@
 			"height": 8,
 			"chars": ["ꀲ"]
 		},
+
+
+
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/labels/small-label-left.png",
@@ -728,287 +637,221 @@
 			"height": 8,
 			"chars": ["ꀶ"]
 		},
+
+
+
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": -3,
-			"chars": [
-				"\uF801"
-			]
+			"chars": ["\uF801"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": -4,
-			"chars": [
-				"\uF802"
-			]
+			"chars": ["\uF802"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": -6,
-			"chars": [
-				"\uF803"
-			]
+			"chars": ["\uF803"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": -10,
-			"chars": [
-				"\uF804"
-			]
+			"chars": ["\uF804"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": -18,
-			"chars": [
-				"\uF805"
-			]
+			"chars": ["\uF805"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": -34,
-			"chars": [
-				"\uF806"
-			]
+			"chars": ["\uF806"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": -66,
-			"chars": [
-				"\uF807"
-			]
+			"chars": ["\uF807"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": -130,
-			"chars": [
-				"\uF808"
-			]
+			"chars": ["\uF808"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": -258,
-			"chars": [
-				"\uF809"
-			]
+			"chars": ["\uF809"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": 0,
-			"chars": [
-				"\uF821"
-			]
+			"chars": ["\uF821"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": 1,
-			"chars": [
-				"\uF822"
-			]
+			"chars": ["\uF822"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": 3,
-			"chars": [
-				"\uF823"
-			]
+			"chars": ["\uF823"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": 7,
-			"chars": [
-				"\uF824"
-			]
+			"chars": ["\uF824"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": 15,
-			"chars": [
-				"\uF825"
-			]
+			"chars": ["\uF825"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": 31,
-			"chars": [
-				"\uF826"
-			]
+			"chars": ["\uF826"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": 63,
-			"chars": [
-				"\uF827"
-			]
+			"chars": ["\uF827"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": 127,
-			"chars": [
-				"\uF828"
-			]
+			"chars": ["\uF828"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"ascent": -32768,
 			"height": 255,
-			"chars": [
-				"\uF829"
-			]
+			"chars": ["\uF829"]
 		},
+
+
+
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/space_split.png",
-			"ascent": -32768,
-			"height": -3,
-			"chars": [
-				"\uF801"
-			]
-		},
-		{
 			"file": "custom/ui/playermenu/background.png",
 			"ascent": 9,
-			"type": "bitmap",
 			"height": 256,
-			"chars": [
-				"\uE501"
-			]
+			"chars": ["\uE501"]
 		},
 		{
+			"type": "bitmap",
 			"file": "custom/ui/playermenu/potionrecipes/background.png",
 			"ascent": 9,
-			"type": "bitmap",
 			"height": 256,
-			"chars": [
-				"\uE502"
-			]
+			"chars": ["\uE502"]
 		},
 		{
+			"type": "bitmap",
 			"file": "custom/ui/playermenu/bestiary/background.png",
 			"ascent": 9,
-			"type": "bitmap",
 			"height": 256,
-			"chars": [
-				"\uE503"
-			]
+			"chars": ["\uE503"]
 		},
 		{
+			"type": "bitmap",
 			"file": "custom/ui/playermenu/coalition/background.png",
 			"ascent": 9,
-			"type": "bitmap",
 			"height": 256,
-			"chars": [
-				"\uE504"
-			]
+			"chars": ["\uE504"]
 		},
 		{
+			"type": "bitmap",
 			"file": "custom/ui/playermenu/coalition/overview/hunters.png",
 			"ascent": 5,
-			"type": "bitmap",
 			"height": 128,
-			"chars": [
-				"\uE505"
-			]
+			"chars": ["\uE505"]
 		},
 		{
+			"type": "bitmap",
 			"file": "custom/ui/playermenu/coalition/overview/aurum.png",
 			"ascent": 5,
-			"type": "bitmap",
 			"height": 128,
-			"chars": [
-				"\uE506"
-			]
+			"chars": ["\uE506"]
 		},
 		{
 			"file": "custom/ui/playermenu/coalition/overview/archivists.png",
 			"ascent": 5,
 			"type": "bitmap",
 			"height": 128,
-			"chars": [
-				"\uE507"
-			]
+			"chars": ["\uE507"]
 		},
 		{
+			"type": "bitmap",
 			"file": "custom/ui/playermenu/coalition/backgroundx.png",
 			"ascent": 9,
-			"type": "bitmap",
 			"height": 256,
-			"chars": [
-				"\uE508"
-			]
+			"chars": ["\uE508"]
 		},
 		{
+			"type": "bitmap",
 			"file": "custom/ui/shops/alchemystation/alchemybackground.png",
 			"ascent": -9,
-			"type": "bitmap",
 			"height": 256,
-			"chat_sendable": false,
-			"chars": [
-				"\uE509"
-			]
+			"chars": ["\uE509"]
 		},
 		{
+			"type": "bitmap",
 			"file": "custom/ui/misc/miscbackground.png",
 			"ascent": 10,
-			"type": "bitmap",
 			"height": 256,
-			"chars": [
-				"\uE50A"
-			]
+			"chars": ["\uE50A"]
 		},
 		{
+			"type": "bitmap",
 			"file": "custom/ui/inventory/inventoryborder.png",
 			"ascent": 25,
-			"type": "bitmap",
 			"height": 176,
-			"chat_sendable": false,
-			"chars": [
-				"\uE50B"
-			]
+			"chars": ["\uE50B"]
 		},
 		{
+			"type": "bitmap",
 			"file": "custom/ui/shops/blacksmith/blacksmith_open1.png",
 			"ascent": 24,
-			"type": "bitmap",
 			"height": 128,
-			"chat_sendable": false,
-			"chars": [
-				"\uE50C"
-			]
+			"chars": ["\uE50C"]
 		}
   ]
 }
