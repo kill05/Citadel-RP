@@ -1,0 +1,29 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/ui/shops/blacksmith/blacksmith_open18",
+		"particle": "custom/ui/shops/blacksmith/blacksmith_open18"
+	},
+	"elements": [
+		{
+			"name": "PlaneX1",
+			"from": [0, 0, 0],
+			"to": [0.001, 32, 32],
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"ground": {
+			"scale": [0, 0, 0]
+		},
+		"gui": {
+			"rotation": [0, -90, 0],
+			"translation": [-39, -48, 0],
+			"scale": [0, 4, 4]
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "ui/parents/item16x16",
+	"textures": {
+		"0": "citadel:ui/misc/back_arrow"
+	},
+	"display": {}
+}
