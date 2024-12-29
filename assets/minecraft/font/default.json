@@ -1075,35 +1075,35 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/backgrounds/miscbackground2.png",
+			"file": "custom/ui/backgrounds/miscbackground2.png",
 			"ascent": 15,
 			"height": 256,
 			"chars": ["\uE501"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/backgrounds/miscbackground3.png",
+			"file": "custom/ui/backgrounds/miscbackground3.png",
 			"ascent": 15,
 			"height": 256,
 			"chars": ["\uE502"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/backgrounds/miscbackground4.png",
+			"file": "custom/ui/backgrounds/miscbackground4.png",
 			"ascent": 15,
 			"height": 256,
 			"chars": ["\uE503"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/backgrounds/miscbackground5.png",
+			"file": "custom/ui/backgrounds/miscbackground5.png",
 			"ascent": 15,
 			"height": 256,
 			"chars": ["\uE504"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/backgrounds/miscbackground6.png",
+			"file": "custom/ui/backgrounds/miscbackground6.png",
 			"ascent": 15,
 			"height": 256,
 			"chars": ["\uE505"]
@@ -1117,14 +1117,14 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/labels/left_title_label.png",
+			"file": "custom/ui/labels/left_title_label.png",
 			"ascent": 7,
 			"height": 13,
 			"chars": ["\uE50A"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/labels/mid_title_label.png",
+			"file": "custom/ui/labels/mid_title_label.png",
 			"ascent": 7,
 			"height": 13,
 			"chars": ["\uE50B"]
@@ -1137,52 +1137,53 @@
 			"chars": ["\uE50C"]
 		},
 
+
 		{
 			"type": "bitmap",
 			"file": "custom/ui/healthbars/left_health_bar.png",
-			"ascent": 7,
+			"ascent": 6,
 			"height": 6,
 			"chars": ["\uE50D"]
 		},
 		{
 			"type": "bitmap",
-			"file": "custom/ui/labels/mid_health_bar.png",
-			"ascent": 7,
+			"file": "custom/ui/healthbars/mid_health_bar.png",
+			"ascent": 6,
 			"height": 6,
 			"chars": ["\uE50F"]
 		},
 		{
 			"type": "bitmap",
 			"file": "custom/ui/healthbars/right_health_bar.png",
-			"ascent": 7,
+			"ascent": 6,
 			"height": 6,
 			"chars": ["\uE510"]
 		},
 		{
 			"type": "bitmap",
 			"file": "custom/ui/healthbars/left_health_bar_empty.png",
-			"ascent": 7,
+			"ascent": 6,
 			"height": 6,
 			"chars": ["\uE511"]
 		},
 		{
 			"type": "bitmap",
 			"file": "custom/ui/healthbars/mid_health_bar_half.png",
-			"ascent": 7,
+			"ascent": 6,
 			"height": 6,
 			"chars": ["\uE512"]
 		},
 		{
 			"type": "bitmap",
 			"file": "custom/ui/healthbars/mid_health_bar_empty.png",
-			"ascent": 7,
+			"ascent": 6,
 			"height": 6,
 			"chars": ["\uE513"]
 		},
 		{
 			"type": "bitmap",
 			"file": "custom/ui/healthbars/right_health_bar_empty.png",
-			"ascent": 7,
+			"ascent": 6,
 			"height": 6,
 			"chars": ["\uE514"]
 		}
