@@ -1153,35 +1153,35 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/labels/right_health_bar.png",
+			"file": "minecraft:textures/custom/ui/healthbars/right_health_bar.png",
 			"ascent": 0,
 			"height": 6,
 			"chars": ["\uE510"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/labels/left_health_bar_empty.png",
+			"file": "minecraft:textures/custom/ui/healthbars/left_health_bar_empty.png",
 			"ascent": 0,
 			"height": 6,
 			"chars": ["\uE511"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/labels/mid_health_bar_half.png",
+			"file": "minecraft:textures/custom/ui/healthbars/mid_health_bar_half.png",
 			"ascent": 0,
 			"height": 6,
 			"chars": ["\uE512"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/labels/mid_health_bar_empty.png",
+			"file": "minecraft:textures/custom/ui/healthbars/mid_health_bar_empty.png",
 			"ascent": 0,
 			"height": 6,
 			"chars": ["\uE513"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/labels/right_health_bar_empty.png",
+			"file": "minecraft:textures/custom/ui/healthbars/right_health_bar_empty.png",
 			"ascent": 0,
 			"height": 6,
 			"chars": ["\uE514"]
