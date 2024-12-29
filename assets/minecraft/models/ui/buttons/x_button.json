@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"parent": "ui/parents/item16x16",
 	"textures": {
-		"0": "citadel:ui/misc/minus_button"
+		"0": "custom/ui/buttons/x_button"
 	},
 	"display": {}
 }

@@ -4,16 +4,16 @@
 		"layer0": "item/barrier"
 	},
 	"overrides": [
-		{ "predicate": {"custom_model_data":1}, "model": "citadel:ui/misc/buttons/confirm_button"},
-		{ "predicate": {"custom_model_data":2}, "model": "citadel:ui/misc/buttons/back_arrow"},
-		{ "predicate": {"custom_model_data":3}, "model": "citadel:ui/misc/buttons/info_button"},
-		{ "predicate": {"custom_model_data":4}, "model": "citadel:ui/misc/buttons/left_arrow"},
-		{ "predicate": {"custom_model_data":5}, "model": "citadel:ui/misc/buttons/right_arrow"},
-		{ "predicate": {"custom_model_data":6}, "model": "citadel:ui/misc/buttons/minus_button"},
-		{ "predicate": {"custom_model_data":7}, "model": "citadel:ui/misc/buttons/plus_button"},
-		{ "predicate": {"custom_model_data":8}, "model": "citadel:ui/misc/buttons/question_mark_button"},
-		{ "predicate": {"custom_model_data":9}, "model": "citadel:ui/misc/buttons/sort_button"},
-		{ "predicate": {"custom_model_data":10}, "model": "citadel:ui/misc/buttons/x_button"},
+		{ "predicate": {"custom_model_data":1}, "model": "ui/buttons/confirm_button"},
+		{ "predicate": {"custom_model_data":2}, "model": "ui/buttons/back_arrow"},
+		{ "predicate": {"custom_model_data":3}, "model": "ui/buttons/info_button"},
+		{ "predicate": {"custom_model_data":4}, "model": "ui/buttons/left_arrow"},
+		{ "predicate": {"custom_model_data":5}, "model": "ui/buttons/right_arrow"},
+		{ "predicate": {"custom_model_data":6}, "model": "ui/buttons/minus_button"},
+		{ "predicate": {"custom_model_data":7}, "model": "ui/buttons/plus_button"},
+		{ "predicate": {"custom_model_data":8}, "model": "ui/buttons/question_mark_button"},
+		{ "predicate": {"custom_model_data":9}, "model": "ui/buttons/sort_button"},
+		{ "predicate": {"custom_model_data":10}, "model": "ui/buttons/x_button"},
 
 		{ "predicate": {"custom_model_data":71}, "model": "ui/shops/blacksmith/scrap_button_inactive"},
 		{ "predicate": {"custom_model_data":72}, "model": "ui/shops/blacksmith/scrap_button_active"}
