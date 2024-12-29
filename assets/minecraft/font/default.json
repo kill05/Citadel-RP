@@ -1068,7 +1068,7 @@
 
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/backgrounds/miscbackground1.png",
+			"file": "custom/ui/backgrounds/miscbackground1.png",
 			"ascent": 15,
 			"height": 256,
 			"chars": ["\uE500"]
@@ -1118,71 +1118,71 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:textures/custom/ui/labels/left_title_label.png",
-			"ascent": 0,
+			"ascent": 7,
 			"height": 13,
 			"chars": ["\uE50A"]
 		},
 		{
 			"type": "bitmap",
 			"file": "minecraft:textures/custom/ui/labels/mid_title_label.png",
-			"ascent": 0,
+			"ascent": 7,
 			"height": 13,
 			"chars": ["\uE50B"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/labels/right_title_label.png",
-			"ascent": 0,
+			"file": "custom/ui/labels/right_title_label.png",
+			"ascent": 7,
 			"height": 13,
 			"chars": ["\uE50C"]
 		},
 
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/healthbars/left_health_bar.png",
-			"ascent": 0,
+			"file": "custom/ui/healthbars/left_health_bar.png",
+			"ascent": 7,
 			"height": 6,
 			"chars": ["\uE50D"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/labels/mid_health_bar.png",
-			"ascent": 0,
+			"file": "custom/ui/labels/mid_health_bar.png",
+			"ascent": 7,
 			"height": 6,
 			"chars": ["\uE50F"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/healthbars/right_health_bar.png",
-			"ascent": 0,
+			"file": "custom/ui/healthbars/right_health_bar.png",
+			"ascent": 7,
 			"height": 6,
 			"chars": ["\uE510"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/healthbars/left_health_bar_empty.png",
-			"ascent": 0,
+			"file": "custom/ui/healthbars/left_health_bar_empty.png",
+			"ascent": 7,
 			"height": 6,
 			"chars": ["\uE511"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/healthbars/mid_health_bar_half.png",
-			"ascent": 0,
+			"file": "custom/ui/healthbars/mid_health_bar_half.png",
+			"ascent": 7,
 			"height": 6,
 			"chars": ["\uE512"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/healthbars/mid_health_bar_empty.png",
-			"ascent": 0,
+			"file": "custom/ui/healthbars/mid_health_bar_empty.png",
+			"ascent": 7,
 			"height": 6,
 			"chars": ["\uE513"]
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:textures/custom/ui/healthbars/right_health_bar_empty.png",
-			"ascent": 0,
+			"file": "custom/ui/healthbars/right_health_bar_empty.png",
+			"ascent": 7,
 			"height": 6,
 			"chars": ["\uE514"]
 		}
