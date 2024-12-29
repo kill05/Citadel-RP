@@ -1066,62 +1066,47 @@
 		},
 
 
-
 		{
 			"type": "bitmap",
-			"file": "custom/ui/playermenu/background.png",
-			"ascent": 9,
+			"file": "citadel:ui/misc/backgrounds/miscbackground1.png",
+			"ascent": 15,
+			"height": 256,
+			"chars": ["\uE500"]
+		},
+		{
+			"type": "bitmap",
+			"file": "citadel:ui/misc/backgrounds/miscbackground2.png",
+			"ascent": 15,
 			"height": 256,
 			"chars": ["\uE501"]
 		},
 		{
 			"type": "bitmap",
-			"file": "custom/ui/playermenu/potionrecipes/background.png",
-			"ascent": 9,
+			"file": "citadel:ui/misc/backgrounds/miscbackground3.png",
+			"ascent": 15,
 			"height": 256,
 			"chars": ["\uE502"]
 		},
 		{
 			"type": "bitmap",
-			"file": "custom/ui/playermenu/bestiary/background.png",
-			"ascent": 9,
+			"file": "citadel:ui/misc/backgrounds/miscbackground4.png",
+			"ascent": 15,
 			"height": 256,
 			"chars": ["\uE503"]
 		},
 		{
 			"type": "bitmap",
-			"file": "custom/ui/playermenu/coalition/background.png",
-			"ascent": 9,
+			"file": "citadel:ui/misc/backgrounds/miscbackground5.png",
+			"ascent": 15,
 			"height": 256,
 			"chars": ["\uE504"]
 		},
 		{
 			"type": "bitmap",
-			"file": "custom/ui/playermenu/coalition/overview/hunters.png",
-			"ascent": 5,
-			"height": 128,
-			"chars": ["\uE505"]
-		},
-		{
-			"type": "bitmap",
-			"file": "custom/ui/playermenu/coalition/overview/aurum.png",
-			"ascent": 5,
-			"height": 128,
-			"chars": ["\uE506"]
-		},
-		{
-			"file": "custom/ui/playermenu/coalition/overview/archivists.png",
-			"ascent": 5,
-			"type": "bitmap",
-			"height": 128,
-			"chars": ["\uE507"]
-		},
-		{
-			"type": "bitmap",
-			"file": "custom/ui/playermenu/coalition/backgroundx.png",
-			"ascent": 9,
+			"file": "citadel:ui/misc/backgrounds/miscbackground6.png",
+			"ascent": 15,
 			"height": 256,
-			"chars": ["\uE508"]
+			"chars": ["\uE505"]
 		},
 		{
 			"type": "bitmap",
@@ -1132,23 +1117,23 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "custom/ui/misc/miscbackground.png",
-			"ascent": 10,
-			"height": 256,
+			"file": "citadel:ui/misc/labels/left_title_label.png",
+			"ascent": 0,
+			"height": 13,
 			"chars": ["\uE50A"]
 		},
 		{
 			"type": "bitmap",
-			"file": "custom/ui/inventory/inventoryborder.png",
-			"ascent": 25,
-			"height": 176,
+			"file": "citadel:ui/misc/labels/mid_title_label.png",
+			"ascent": 0,
+			"height": 13,
 			"chars": ["\uE50B"]
 		},
 		{
 			"type": "bitmap",
-			"file": "custom/ui/shops/blacksmith/blacksmith_open1.png",
-			"ascent": 24,
-			"height": 128,
+			"file": "citadel:ui/misc/labels/right_title_label.png",
+			"ascent": 0,
+			"height": 13,
 			"chars": ["\uE50C"]
 		}
   ]
