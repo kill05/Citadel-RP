@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "ui/parents/item16x16",
+	"parent": "ui/parents/item16x16a",
 	"textures": {
 		"0": "custom/ui/buttons/sort_button"
 	},
