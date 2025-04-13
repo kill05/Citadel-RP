@@ -1,0 +1,181 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "citadel:item/weapon/spear/iron_spear",
+		"particle": "citadel:item/weapon/spear/iron_spear"
+	},
+	"elements": [
+		{
+			"from": [7.503, 2.778, 7.503],
+			"to": [8.497, 25.272, 8.497],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14.05, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0.5, 11.25], "texture": "#0"},
+				"east": {"uv": [0.5, 0, 1, 11.25], "texture": "#0"},
+				"south": {"uv": [1, 0, 1.5, 11.25], "texture": "#0"},
+				"west": {"uv": [1.5, 0, 2, 11.25], "texture": "#0"},
+				"up": {"uv": [6.5, 7, 6, 6.5], "texture": "#0"},
+				"down": {"uv": [7, 6, 6.5, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.253, 22.803, 7.253],
+			"to": [8.747, 25.297, 8.747],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 14.05, 8]},
+			"faces": {
+				"north": {"uv": [4, 2, 4.75, 3.25], "texture": "#0"},
+				"east": {"uv": [3, 4, 3.75, 5.25], "texture": "#0"},
+				"south": {"uv": [4, 3.5, 4.75, 4.75], "texture": "#0"},
+				"west": {"uv": [5, 0, 5.75, 1.25], "texture": "#0"},
+				"up": {"uv": [4.75, 5.75, 4, 5], "texture": "#0"},
+				"down": {"uv": [5.75, 4, 5, 4.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.24676, 29.59345, 7.674],
+			"to": [8.74876, 31.09545, 8.324],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7.99776, 30.34445, 8.00235]},
+			"faces": {
+				"north": {"uv": [2.5, 5.5, 3.25, 6.25], "texture": "#0"},
+				"east": {"uv": [6.5, 6.5, 6.75, 7.25], "texture": "#0"},
+				"south": {"uv": [5.5, 2.5, 6.25, 3.25], "texture": "#0"},
+				"west": {"uv": [7, 0, 7.25, 0.75], "texture": "#0"},
+				"up": {"uv": [7.75, 1.25, 7, 1], "texture": "#0"},
+				"down": {"uv": [3.25, 7, 2.5, 7.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.24676, 29.59345, 7.67],
+			"to": [8.74876, 31.09545, 7.67],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7.99776, 30.34445, 7.999]},
+			"faces": {
+				"north": {"uv": [6, 0, 6.75, 0.75], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0.75], "texture": "#0"},
+				"south": {"uv": [3.5, 6, 4.25, 6.75], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0.75], "texture": "#0"},
+				"up": {"uv": [0.75, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [0.75, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.24676, 29.59345, 8.33],
+			"to": [8.74876, 31.09545, 8.33],
+			"rotation": {"angle": 45, "axis": "z", "origin": [7.99776, 30.34445, 8.001]},
+			"faces": {
+				"north": {"uv": [5, 5, 5.75, 5.75], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 0.75], "texture": "#0"},
+				"south": {"uv": [5.5, 1.5, 6.25, 2.25], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 0.75], "texture": "#0"},
+				"up": {"uv": [0.75, 0, 0, 0], "texture": "#0"},
+				"down": {"uv": [0.75, 0, 0, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6.93569, 25.29445, 7.67335],
+			"to": [9.0621, 30.34445, 8.32465],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.7871, 29.84445, 7.999]},
+			"faces": {
+				"north": {"uv": [2, 0, 3, 2.5], "texture": "#0"},
+				"east": {"uv": [5, 1.5, 5.25, 4], "texture": "#0"},
+				"south": {"uv": [2, 2.5, 3, 5], "texture": "#0"},
+				"west": {"uv": [2, 5, 2.25, 7.5], "texture": "#0"},
+				"up": {"uv": [7.5, 1.75, 6.5, 1.5], "texture": "#0"},
+				"down": {"uv": [7.5, 2, 6.5, 2.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "pommel",
+			"from": [2.80289, 4.39095, 7.3965],
+			"to": [4.00989, 5.59795, 8.6035],
+			"rotation": {"angle": 45, "axis": "z", "origin": [8.3832, 9.42934, 8]},
+			"faces": {
+				"north": {"uv": [3, 6.5, 2.5, 7], "texture": "#0"},
+				"east": {"uv": [3, 6.5, 2.5, 7], "texture": "#0"},
+				"south": {"uv": [2.5, 6.5, 3, 7], "texture": "#0"},
+				"west": {"uv": [2.5, 6.5, 3, 7], "texture": "#0"},
+				"up": {"uv": [2.5, 7, 3, 6.5], "texture": "#0"},
+				"down": {"uv": [2.5, 6.5, 3, 7], "texture": "#0"}
+			}
+		},
+		{
+			"name": "hiltR",
+			"from": [6.43247, 25.17717, 7.4318],
+			"to": [8.19497, 26.07717, 8.5681],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [5.48647, 25.62717, 8]},
+			"faces": {
+				"north": {"uv": [5.5, 3.5, 6.5, 4], "texture": "#0"},
+				"east": {"uv": [6.5, 3.5, 7, 4], "texture": "#0"},
+				"south": {"uv": [6, 1, 7, 1.5], "texture": "#0"},
+				"west": {"uv": [4.5, 6.5, 5, 7], "texture": "#0"},
+				"up": {"uv": [7, 4.5, 6, 4], "texture": "#0"},
+				"down": {"uv": [5.5, 6, 4.5, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "hiltR",
+			"from": [7.80503, 25.17717, 7.4318],
+			"to": [9.56753, 26.07717, 8.5681],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [10.51353, 25.62717, 8]},
+			"faces": {
+				"north": {"uv": [6.5, 3.5, 5.5, 4], "texture": "#0"},
+				"east": {"uv": [5, 6.5, 4.5, 7], "texture": "#0"},
+				"south": {"uv": [7, 1, 6, 1.5], "texture": "#0"},
+				"west": {"uv": [7, 3.5, 6.5, 4], "texture": "#0"},
+				"up": {"uv": [6, 4.5, 7, 4], "texture": "#0"},
+				"down": {"uv": [4.5, 6, 5.5, 6.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, -9.5, 1.25],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [0, -9.5, 1.25],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 99, 0],
+			"translation": [0, -4, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -81, 0],
+			"translation": [0, -4, 0]
+		},
+		"ground": {
+			"rotation": [80, 10, 0],
+			"translation": [0, 0.5, -11.5],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"gui": {
+			"rotation": [-180, 0, -135],
+			"translation": [-3.75, -3.75, 0]
+		},
+		"fixed": {
+			"translation": [0, -25.5, -0.25],
+			"scale": [4, 4, 4]
+		}
+	},
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		5,
+		{
+			"name": "Silver Hammer",
+			"origin": [8.70387, 5.31304, 7.99459],
+			"color": 0,
+			"nbt": "{}",
+			"children": [6]
+		},
+		7,
+		8
+	]
+}
