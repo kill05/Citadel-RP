@@ -3,7 +3,7 @@
     "sources": [
       {
         "type": "gif",
-        "path": "citadel:ui/blacksmith/animations/forge_to_scrap",
+        "path": "citadel:ui/blacksmith/animations/scrap_to_forge",
         "parent_model": "citadel:ui/blacksmith/animations/swap_mode"
       }
     ]
