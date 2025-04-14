@@ -232,6 +232,7 @@
 			"name": "liquid",
 			"from": [5.5, 0.5, 5.5],
 			"to": [10.5, 7.5, 10.5],
+			"light_emission": 13,
 			"faces": {
 				"north": {"uv": [8, 3.5, 10, 7], "texture": "#3", "tintindex": 0},
 				"east": {"uv": [8, 3.5, 10, 7], "texture": "#3", "tintindex": 0},
@@ -287,28 +288,24 @@
 			"name": "group",
 			"origin": [8, 4, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4, 5]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8.5, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [6, 7, 8, 9]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8.5, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [10, 11, 12, 13, 14, 15]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8.5, 8],
 			"color": 0,
-			"nbt": "{}",
 			"children": [16]
 		},
 		17

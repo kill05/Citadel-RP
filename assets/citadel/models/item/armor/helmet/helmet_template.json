@@ -1,0 +1,117 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 32],
+	"textures": {
+		"1": "custom/armor/chain/chain"
+	},
+	"elements": [
+		{
+			"name": "Helmet",
+			"from": [3, 0, 3],
+			"to": [13, 10, 13],
+			"faces": {
+				"north": {"uv": [2, 4, 4, 8], "texture": "#1"},
+				"east": {"uv": [0, 4, 2, 8], "texture": "#1"},
+				"south": {"uv": [6, 4, 8, 8], "texture": "#1"},
+				"west": {"uv": [4, 4, 6, 8], "texture": "#1"},
+				"up": {"uv": [4, 4, 2, 0], "texture": "#1"},
+				"down": {"uv": [6, 0, 4, 4], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Helmet inverted",
+			"from": [13, 10, 13],
+			"to": [3, 0, 3],
+			"faces": {
+				"north": {"uv": [6, 8, 8, 4], "texture": "#1"},
+				"east": {"uv": [4, 8, 6, 4], "texture": "#1"},
+				"south": {"uv": [2, 8, 4, 4], "texture": "#1"},
+				"west": {"uv": [0, 8, 2, 4], "texture": "#1"},
+				"up": {"uv": [4, 0, 6, 4], "texture": "#1"},
+				"down": {"uv": [2, 4, 4, 0], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"rotation": [13, 0, 0],
+			"translation": [0, 2.75, 1],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"gui": {
+			"rotation": [23, 157, 0],
+			"translation": [0, 2.5, 0]
+		},
+		"head": {
+			"translation": [0, 4, 0],
+			"scale": [1.49, 1.49, 1.49]
+		},
+		"fixed": {
+			"rotation": [-80, 0, 0],
+			"translation": [0, 0, -14.1],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "Head",
+			"origin": [0, 24, 0],
+			"rotation": [6, -5, 0],
+			"color": 0,
+			"children": [0, 1]
+		},
+		{
+			"name": "Body",
+			"origin": [0, 24, 0],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "Right Arm",
+			"origin": [5, 22, 0],
+			"rotation": [10, 0, 0],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "Left Arm",
+			"origin": [-5, 22, 0],
+			"rotation": [-12, 0, 0],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "Right Leg",
+			"origin": [1.9, 12, 0],
+			"rotation": [-11, 0, 2],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "Left Leg",
+			"origin": [-1.9, 12, 0],
+			"rotation": [10, 0, -2],
+			"color": 0,
+			"children": []
+		}
+	]
+}

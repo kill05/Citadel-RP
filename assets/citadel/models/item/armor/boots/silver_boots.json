@@ -1,0 +1,7 @@
+{
+   "parent": "citadel:item/armor/boots/boots_template",
+    "textures": {
+			"1": "citadel:item/armor/silver/silver",
+			"particle": "citadel:item/armor/silver/silver"
+     }
+}

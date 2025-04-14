@@ -1,0 +1,58 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_data",
+      "cases": [
+        {
+          "when": {
+            "tier": "leather"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/armor/leggings/leather_leggings"
+          }
+        },
+        {
+          "when": {
+            "tier": "chain"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/armor/leggings/chain_leggings"
+          }
+        },
+        {
+          "when": {
+            "tier": "iron"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/armor/leggings/iron_leggings"
+          }
+        },
+        {
+          "when": {
+            "tier": "silver"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/armor/leggings/silver_leggings"
+          }
+        },
+        {
+          "when": {
+            "tier": "gold"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/armor/leggings/gold_leggings"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/barrier"
+      }
+    }
+  }

@@ -1,0 +1,14 @@
+{
+    "layers": {
+      "humanoid": [
+        {
+          "texture": "citadel:gold"
+        }
+      ],
+      "humanoid_leggings": [
+        {
+          "texture": "citadel:gold"
+        }
+      ]
+    }
+  }

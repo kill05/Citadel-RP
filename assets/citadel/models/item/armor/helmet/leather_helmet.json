@@ -1,0 +1,7 @@
+{
+   "parent": "item/armor/helmet",
+    "textures": {
+			"1": "citadel:item/armor/leather/leather",
+			"particle": "citadel:item/armor/leather/leather"
+     }
+}

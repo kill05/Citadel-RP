@@ -1,7 +1,0 @@
-{
-   "parent": "item/armor/helmet",
-    "textures": {
-			"1": "custom/armor/chain/chain",
-			"particle": "custom/armor/chain/chain"
-     }
-}

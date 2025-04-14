@@ -1,7 +1,0 @@
-{
-   "parent": "item/armor/leggings",
-    "textures": {
-			"1": "custom/armor/leather/leather_leggings",
-			"particle": "custom/armor/leather/leather_leggings"
-     }
-}
