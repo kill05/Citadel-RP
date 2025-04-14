@@ -1,0 +1,59 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_data",
+      "cases": [
+        {
+          "when": {
+            "tier": "wood"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/tome/wood_tome"
+          }
+        },
+        {
+          "when": {
+            "tier": "stone"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/tome/stone_tome",
+            "tints": []
+          }
+        },
+        {
+          "when": {
+            "tier": "iron"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/tome/iron_tome"
+          }
+        },
+        {
+          "when": {
+            "tier": "silver"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/tome/silver_tome"
+          }
+        },
+        {
+          "when": {
+            "tier": "gold"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/tome/gold_tome"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/barrier"
+      }
+    }
+  }

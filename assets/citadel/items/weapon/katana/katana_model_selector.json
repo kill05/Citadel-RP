@@ -1,0 +1,59 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_data",
+      "cases": [
+        {
+          "when": {
+            "tier": "wood"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/katana/wood_katana"
+          }
+        },
+        {
+          "when": {
+            "tier": "stone"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/katana/stone_katana",
+            "tints": []
+          }
+        },
+        {
+          "when": {
+            "tier": "iron"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/katana/iron_katana"
+          }
+        },
+        {
+          "when": {
+            "tier": "silver"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/katana/silver_katana"
+          }
+        },
+        {
+          "when": {
+            "tier": "gold"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/katana/gold_katana"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/barrier"
+      }
+    }
+  }

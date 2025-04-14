@@ -1,0 +1,59 @@
+{
+    "model": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_data",
+      "cases": [
+        {
+          "when": {
+            "tier": "wood"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/staff/wood_staff"
+          }
+        },
+        {
+          "when": {
+            "tier": "stone"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/staff/stone_staff",
+            "tints": []
+          }
+        },
+        {
+          "when": {
+            "tier": "iron"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/staff/iron_staff"
+          }
+        },
+        {
+          "when": {
+            "tier": "silver"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/staff/silver_staff"
+          }
+        },
+        {
+          "when": {
+            "tier": "gold"
+          },
+          "model": {
+            "type": "minecraft:model",
+            "model": "citadel:item/weapon/staff/gold_staff"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/barrier"
+      }
+    }
+  }
