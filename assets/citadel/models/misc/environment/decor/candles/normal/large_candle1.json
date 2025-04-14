@@ -1,0 +1,130 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "citadel:misc/environment/decor/candles/normal/candle_1_sheet",
+		"3": "citadel:misc/environment/decor/candles/normal/candle_4_sheet",
+		"4": "citadel:misc/environment/decor/candles/normal/large_candle",
+		"particle": "citadel:misc/environment/decor/candles/normal/candle_1_sheet"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 7, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 0, 6]},
+			"faces": {
+				"north": {"uv": [2, 0, 0, 3.5], "texture": "#4"},
+				"east": {"uv": [2, 0, 0, 3.5], "texture": "#4"},
+				"south": {"uv": [2, 0, 0, 3.5], "texture": "#4"},
+				"west": {"uv": [2, 0, 0, 3.5], "texture": "#4"},
+				"up": {"uv": [2, 5.5, 0, 3.5], "texture": "#4"},
+				"down": {"uv": [2, 5.5, 0, 3.5], "texture": "#4"}
+			}
+		},
+		{
+			"from": [5, 0, 9],
+			"to": [8, 4, 12],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [5, 0, 9]},
+			"faces": {
+				"north": {"uv": [4, 0, 2.5, 2], "texture": "#4"},
+				"east": {"uv": [4, 0, 2.5, 2], "texture": "#4"},
+				"south": {"uv": [4, 0, 2.5, 2], "texture": "#4"},
+				"west": {"uv": [4, 0, 2.5, 2], "texture": "#4"},
+				"up": {"uv": [4, 3.5, 2.5, 2], "texture": "#4"},
+				"down": {"uv": [4, 3.5, 2.5, 2], "texture": "#4"}
+			}
+		},
+		{
+			"name": "flame",
+			"from": [-5.76254, 7, 0.79863],
+			"to": [-5.76254, 11, 3.79863],
+			"light_emission": 15,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8.02604, 5.25, -11.48995]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 3], "texture": "#4"},
+				"east": {"uv": [0, 0, 5, 6], "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 3], "texture": "#4"},
+				"west": {"uv": [0, 0, 5, 6], "texture": "#0"},
+				"up": {"uv": [0, 1.5, 0, 0], "texture": "#4"},
+				"down": {"uv": [0, 0, 0, 1.5], "texture": "#4"}
+			}
+		},
+		{
+			"name": "flame",
+			"from": [6.52604, 7, 8.01005],
+			"to": [9.52604, 11, 8.01005],
+			"light_emission": 15,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8.02604, 10, 8.01005]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 3], "texture": "#4"},
+				"south": {"uv": [0, 0, 5, 6], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 3], "texture": "#4"},
+				"up": {"uv": [1.5, 0, 0, 0], "texture": "#4"},
+				"down": {"uv": [1.5, 0, 0, 0], "texture": "#4"}
+			}
+		},
+		{
+			"name": "flame",
+			"from": [4.27604, 4, 11.01005],
+			"to": [7.27604, 8, 11.01005],
+			"light_emission": 15,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [5.77604, 7, 11.01005]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 6], "texture": "#3"},
+				"east": {"uv": [0, 0, 0, 3], "texture": "#4"},
+				"south": {"uv": [0, 0, 5, 6], "texture": "#3"},
+				"west": {"uv": [0, 0, 0, 3], "texture": "#4"},
+				"up": {"uv": [1.5, 0, 0, 0], "texture": "#4"},
+				"down": {"uv": [1.5, 0, 0, 0], "texture": "#4"}
+			}
+		},
+		{
+			"name": "flame",
+			"from": [5.77604, 4, 9.51005],
+			"to": [5.77604, 8, 12.51005],
+			"light_emission": 15,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [5.77604, 7, 11.01005]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 3], "texture": "#4"},
+				"east": {"uv": [0, 0, 5, 6], "texture": "#3"},
+				"south": {"uv": [0, 0, 0, 3], "texture": "#4"},
+				"west": {"uv": [0, 0, 5, 6], "texture": "#3"},
+				"up": {"uv": [0, 1.5, 0, 0], "texture": "#4"},
+				"down": {"uv": [0, 0, 0, 1.5], "texture": "#4"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 8, 0]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 8, 0]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 5, 0]
+		},
+		"ground": {
+			"translation": [0, 4.75, 0]
+		},
+		"gui": {
+			"rotation": [22.5, 22.5, 0],
+			"translation": [0, 4, 0],
+			"scale": [1.22, 1.22, 1.22]
+		},
+		"head": {
+			"translation": [0, 23.25, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}
