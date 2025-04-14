@@ -1,0 +1,12 @@
+{
+	"model": {
+	  "type": "minecraft:model",
+	  "model": "citadel:item/potions/potion_flask",
+	  "tints": [
+		{
+		  "type": "minecraft:potion",
+		  "default": -13083194
+		}
+	  ]
+	}
+  }
