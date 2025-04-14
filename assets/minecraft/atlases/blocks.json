@@ -1,9 +1,14 @@
 {
     "sources": [
         {
-            "type": "directory",
+            "type": "minecraft:directory",
             "source": "custom",
             "prefix": "custom/"
+        },
+        {
+            "type": "minecraft:directory",
+            "prefix": "ui/",
+            "source": "ui"
         }
     ]
 }

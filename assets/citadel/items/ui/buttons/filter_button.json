@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "citadel:ui/buttons/filter_button"
+  }
+}
