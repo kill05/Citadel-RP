@@ -9,6 +9,11 @@
             "type": "minecraft:directory",
             "prefix": "ui/",
             "source": "ui"
+        },
+        {
+            "type": "minecraft:directory",
+            "prefix": "misc/",
+            "source": "misc"
         }
     ]
 }
