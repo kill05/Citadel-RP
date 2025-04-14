@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:builtin/generated",
+	"gui_light": "front",
+	"textures": {
+		"layer0": "citadel:ui/buttons/left_arrow"
+	}
+}
