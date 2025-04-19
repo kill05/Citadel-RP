@@ -1,7 +1,7 @@
 {
    "parent": "citadel:item/armor/chestplate/chestplate_template",
     "textures": {
-			"1": "citadel:item/armor/chain/chain",
-			"particle": "citadel:item/armor/chain/chain"
+			"1": "citadel:item/armor/wood/wood",
+			"particle": "citadel:item/armor/wood/wood"
      }
 }

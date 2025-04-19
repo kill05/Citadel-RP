@@ -1,0 +1,7 @@
+{
+   "parent": "citadel:item/armor/helmet/helmet_template",
+    "textures": {
+			"1": "citadel:item/armor/stone/stone",
+			"particle": "citadel:item/armor/stone/stone"
+     }
+}

@@ -2,12 +2,12 @@
     "layers": {
       "humanoid": [
         {
-          "texture": "citadel:leather"
+          "texture": "citadel:wood"
         }
       ],
       "humanoid_leggings": [
         {
-          "texture": "citadel:leather"
+          "texture": "citadel:wood"
         }
       ]
     }

@@ -1,7 +1,0 @@
-{
-   "parent": "citadel:item/armor/boots/boots_template",
-    "textures": {
-			"1": "citadel:item/armor/leather/leather",
-			"particle": "citadel:item/armor/leather/leather"
-     }
-}

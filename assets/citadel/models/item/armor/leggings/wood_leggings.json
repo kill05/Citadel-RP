@@ -1,0 +1,7 @@
+{
+   "parent": "citadel:item/armor/leggings/leggings_template",
+    "textures": {
+			"1": "citadel:item/armor/wood/wood_leggings",
+			"particle": "citadel:item/armor/wood/wood_leggings"
+     }
+}
