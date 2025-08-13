@@ -2,333 +2,6 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:font/item_lore/outer_border/top_left.png",
-			"ascent": 32,
-			"height": 51
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/outer_border/top_segment.png",
-			"ascent": 32,
-			"height": 48
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/outer_border/top_center.png",
-			"ascent": 32,
-			"height": 48
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/outer_border/top_right.png",
-			"ascent": 32,
-			"height": 51
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/outer_border/vertical.png",
-			"ascent": 11,
-			"height": 11
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/outer_border/bottom_left.png",
-			"ascent": 15,
-			"height": 27
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/outer_border/bottom_segment.png",
-			"ascent": 15,
-			"height": 27
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/outer_border/bottom_right.png",
-			"ascent": 15,
-			"height": 27
-		},
-
-
-
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/top_left.png",
-			"ascent": 8,
-			"height": 9
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/top_right.png",
-			"ascent": 8,
-			"height": 9
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/top_segment.png",
-			"ascent": 8,
-			"height": 9
-		},
-
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/bottom_left.png",
-			"ascent": 8,
-			"height": 9
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/bottom_right.png",
-			"ascent": 8,
-			"height": 9
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/bottom_segment.png",
-			"ascent": 8,
-			"height": 9
-		},
-
-
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/divider_upper_left.png",
-			"ascent": 8,
-			"height": 11
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/divider_upper_right.png",
-			"ascent": 8,
-			"height": 11
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/divider_lower_left.png",
-			"ascent": 7,
-			"height": 9
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/divider_lower_right.png",
-			"ascent": 7,
-			"height": 9
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/divider_segment.png",
-			"ascent": 10,
-			"height": 13
-		},
-
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/vertical.png",
-			"ascent": 8,
-			"height": 10
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/inner_border/vertical.png",
-			"id": "minecraft:font/item_lore/inner_border/vertical_end.png",
-			"ascent": 8,
-			"height": 9
-		},
-
-
-
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/base.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/segment_green_half.png",
-			"ascent": 3,
-			"height": 5
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/segment_green_full.png",
-			"ascent": 3,
-			"height": 5
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/segment_gold_half.png",
-			"ascent": 3,
-			"height": 5
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/segment_gold_full.png",
-			"ascent": 3,
-			"height": 5
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/segment_mixed.png",
-			"ascent": 3,
-			"height": 5
-		},
-
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/0.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/1.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/2.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/3.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/4.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/5.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/6.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/7.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/8.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/9.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/10.png",
-			"ascent": 7,
-			"height": 13
-		},
-
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_1.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_2.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_3.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_4.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_5.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_6.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_7.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_8.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_9.png",
-			"ascent": 7,
-			"height": 13
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_10.png",
-			"ascent": 7,
-			"height": 13
-		},
-
-
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/labels/small-label-left.png",
-			"ascent": 7,
-			"height": 8,
-			"chars": ["ꀳ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/labels/small-label-middle.png",
-			"ascent": 7,
-			"height": 8,
-			"chars": ["ꀵ"]
-		},
-		{
-			"type": "bitmap",
-			"file": "minecraft:font/labels/small-label-right.png",
-			"ascent": 7,
-			"height": 8,
-			"chars": ["ꀶ"]
-		},
-
-
-
-		{
-			"type": "bitmap",
 			"file": "minecraft:font/space_split.png",
 			"id": "citadel:negative_spacing_1",
 			"ascent": -32768,
@@ -475,6 +148,415 @@
 
 		{
 			"type": "bitmap",
+			"file": "minecraft:font/item_lore/outer_border/top_left.png",
+			"ascent": 32,
+			"height": 51
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/outer_border/top_segment.png",
+			"ascent": 32,
+			"height": 48
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/outer_border/top_center.png",
+			"ascent": 32,
+			"height": 48
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/outer_border/top_right.png",
+			"ascent": 32,
+			"height": 51
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/outer_border/vertical.png",
+			"ascent": 11,
+			"height": 11
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/outer_border/bottom_left.png",
+			"ascent": 15,
+			"height": 27
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/outer_border/bottom_segment.png",
+			"ascent": 15,
+			"height": 27
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/outer_border/bottom_right.png",
+			"ascent": 15,
+			"height": 27
+		},
+
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/top_left.png",
+			"ascent": 8,
+			"height": 9
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/top_right.png",
+			"ascent": 8,
+			"height": 9
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/top_segment.png",
+			"ascent": 8,
+			"height": 9
+		},
+
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/bottom_left.png",
+			"ascent": 8,
+			"height": 9
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/bottom_right.png",
+			"ascent": 8,
+			"height": 9
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/bottom_segment.png",
+			"ascent": 8,
+			"height": 9
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/divider_upper_left.png",
+			"ascent": 8,
+			"height": 11
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/divider_upper_right.png",
+			"ascent": 8,
+			"height": 11
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/divider_lower_left.png",
+			"ascent": 7,
+			"height": 9
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/divider_lower_right.png",
+			"ascent": 7,
+			"height": 9
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/divider_segment.png",
+			"ascent": 10,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/vertical.png",
+			"ascent": 8,
+			"height": 10
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/inner_border/vertical.png",
+			"id": "minecraft:font/item_lore/inner_border/vertical_end.png",
+			"ascent": 8,
+			"height": 9
+		},
+
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/base.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/segment_green_half.png",
+			"ascent": 3,
+			"height": 5
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/segment_green_full.png",
+			"ascent": 3,
+			"height": 5
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/segment_gold_half.png",
+			"ascent": 3,
+			"height": 5
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/segment_gold_full.png",
+			"ascent": 3,
+			"height": 5
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/segment_mixed.png",
+			"ascent": 3,
+			"height": 5
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/0.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/1.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/2.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/3.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/4.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/5.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/6.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/7.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/8.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/9.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/10.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_1.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_2.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_3.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_4.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_5.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_6.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_7.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_8.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_9.png",
+			"ascent": 7,
+			"height": 13
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/item_lore/xp_bar/numbers/upgrade_10.png",
+			"ascent": 7,
+			"height": 13
+		},
+
+
+
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/base.png",
+			"ascent": 0,
+			"height": 65
+		},
+
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/health/start.png",
+			"ascent": 0,
+			"height": 40
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/health/segment.png",
+			"ascent": 0,
+			"height": 40
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/health/before_end.png",
+			"ascent": 0,
+			"height": 40
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/health/end_incomplete.png",
+			"ascent": 0,
+			"height": 40
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/health/end_full.png",
+			"ascent": 0,
+			"height": 40
+		},
+
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/soul/start.png",
+			"ascent": 0,
+			"height": 30
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/soul/after_start.png",
+			"ascent": 0,
+			"height": 30
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/soul/segment.png",
+			"ascent": 0,
+			"height": 30
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/soul/before_end.png",
+			"ascent": 0,
+			"height": 30
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/soul/end_incomplete.png",
+			"ascent": 0,
+			"height": 30
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/soul/end_full.png",
+			"ascent": 0,
+			"height": 30
+		},
+
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/xp/segment.png",
+			"ascent": 0,
+			"height": 43
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/hotbar/xp/end.png",
+			"ascent": 0,
+			"height": 43
+		},
+
+
+
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/labels/small-label-left.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["ꀳ"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/labels/small-label-middle.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["ꀵ"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/labels/small-label-right.png",
+			"ascent": 7,
+			"height": 8,
+			"chars": ["ꀶ"]
+		},
+
+
+
+		{
+			"type": "bitmap",
 			"file": "minecraft:custom/ui/backgrounds/miscbackground1.png",
 			"ascent": 15,
 			"height": 256
@@ -509,14 +591,7 @@
 			"ascent": 15,
 			"height": 256
 		},
-		
-		{
-			"type": "bitmap",
-			"file": "custom/ui/shops/alchemystation/alchemybackground.png",
-			"ascent": -9,
-			"height": 256,
-			"chars": ["\uE509"]
-		},
+
 		{
 			"type": "bitmap",
 			"file": "custom/ui/labels/left_title_label.png",
@@ -538,6 +613,17 @@
 			"height": 16,
 			"chars": ["\uE50C"]
 		},
+		
+
+
+		{
+			"type": "bitmap",
+			"file": "custom/ui/shops/alchemystation/alchemybackground.png",
+			"ascent": -9,
+			"height": 256,
+			"chars": ["\uE509"]
+		},
+
 
 
 		{
