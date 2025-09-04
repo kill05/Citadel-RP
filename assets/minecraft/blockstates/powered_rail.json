@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "shape=ascending_north,powered=false": [
+      {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group1"},
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group1", "y": 90 },
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group1", "y": 180 },
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group1", "y": 270 },
+      {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group2"},
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group2", "y": 90 },
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group2", "y": 180 },
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group2", "y": 270 },
+      {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group3"},
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group3", "y": 90 },
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group3", "y": 180 },
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group3", "y": 270 },
+      {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group4"},
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group4", "y": 90 },
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group4", "y": 180 },
+	  {"model": "citadel:misc/environment/interactables/pots/style1_grouped/group4", "y": 270 }
+    		]
+		}
+}
