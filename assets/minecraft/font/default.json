@@ -618,9 +618,9 @@
 
 		{
 			"type": "bitmap",
-			"file": "custom/ui/shops/alchemystation/alchemybackground.png",
-			"ascent": -9,
-			"height": 256,
+			"file": "minecraft:font/inventory_outline.png",
+			"ascent": 25,
+			"height": 176,
 			"chars": ["\uE509"]
 		},
 
@@ -764,6 +764,6 @@
 			"ascent": 7,
 			"height": 8,
 			"chars": ["ꀐ"]
-		},
+		}
   ]
 }
