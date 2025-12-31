@@ -1186,6 +1186,55 @@
 			"ascent": 28,
 			"height": 114,
 			"chars": ["\uE514"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/enchant_showcase/scavenging2_lore.png",
+			"ascent": 28,
+			"height": 93,
+			"chars": ["\uE515"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/enchant_showcase/earthproficiency1_lore.png",
+			"ascent": 28,
+			"height": 114,
+			"chars": ["\uE516"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/enchant_showcase/insurrection2_lore.png",
+			"ascent": 28,
+			"height": 103,
+			"chars": ["\uE517"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/enchant_showcase/bulwark3_lore.png",
+			"ascent": 28,
+			"height": 103,
+			"chars": ["\uE518"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/enchant_showcase/protection4_lore.png",
+			"ascent": 28,
+			"height": 93,
+			"chars": ["\uE519"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/enchant_showcase/overheal1_lore.png",
+			"ascent": 28,
+			"height": 124,
+			"chars": ["\uE51A"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/enchant_showcase/meditation3_lore.png",
+			"ascent": 28,
+			"height": 103,
+			"chars": ["\uE51B"]
 		}
   ]
 }
